@@ -1,0 +1,17 @@
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\obj\Debug\net6.0\AppliVacationProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\obj\Debug\net6.0\AppliVacationProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\obj\Debug\net6.0\AppliVacationProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\obj\Debug\net6.0\AppliVacationProject.DataAccess.AssemblyInfo.cs
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\obj\Debug\net6.0\AppliVacationProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\bin\Debug\net6.0\AppliVacationProject.DataAccess.deps.json
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\bin\Debug\net6.0\AppliVacationProject.DataAccess.runtimeconfig.json
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\bin\Debug\net6.0\AppliVacationProject.DataAccess.dll
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\bin\Debug\net6.0\AppliVacationProject.DataAccess.pdb
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\bin\Debug\net6.0\AppliVacationProject.BusinessLogic.dll
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\bin\Debug\net6.0\AppliVacationProject.BusinessLogic.pdb
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\obj\Debug\net6.0\AppliVacationProject.DataAccess.csproj.CopyComplete
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\obj\Debug\net6.0\AppliVacationProject.DataAccess.dll
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\obj\Debug\net6.0\refint\AppliVacationProject.DataAccess.dll
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\obj\Debug\net6.0\AppliVacationProject.DataAccess.pdb
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\obj\Debug\net6.0\AppliVacationProject.DataAccess.genruntimeconfig.cache
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.DataAccess\obj\Debug\net6.0\ref\AppliVacationProject.DataAccess.dll

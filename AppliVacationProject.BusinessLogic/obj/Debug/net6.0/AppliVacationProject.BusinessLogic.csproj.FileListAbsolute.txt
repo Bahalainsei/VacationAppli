@@ -1,0 +1,14 @@
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.BusinessLogic\bin\Debug\net6.0\AppliVacationProject.BusinessLogic.deps.json
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.BusinessLogic\bin\Debug\net6.0\AppliVacationProject.BusinessLogic.runtimeconfig.json
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.BusinessLogic\bin\Debug\net6.0\AppliVacationProject.BusinessLogic.dll
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.BusinessLogic\bin\Debug\net6.0\AppliVacationProject.BusinessLogic.pdb
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.BusinessLogic\obj\Debug\net6.0\AppliVacationProject.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.BusinessLogic\obj\Debug\net6.0\AppliVacationProject.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.BusinessLogic\obj\Debug\net6.0\AppliVacationProject.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.BusinessLogic\obj\Debug\net6.0\AppliVacationProject.BusinessLogic.AssemblyInfo.cs
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.BusinessLogic\obj\Debug\net6.0\AppliVacationProject.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.BusinessLogic\obj\Debug\net6.0\AppliVacationProject.BusinessLogic.dll
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.BusinessLogic\obj\Debug\net6.0\refint\AppliVacationProject.BusinessLogic.dll
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.BusinessLogic\obj\Debug\net6.0\AppliVacationProject.BusinessLogic.pdb
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.BusinessLogic\obj\Debug\net6.0\AppliVacationProject.BusinessLogic.genruntimeconfig.cache
+C:\Users\INFI-9\Desktop\Team Dokent\AppliVacationProject.BusinessLogic\obj\Debug\net6.0\ref\AppliVacationProject.BusinessLogic.dll
