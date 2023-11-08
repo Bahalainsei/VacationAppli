@@ -1,14 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AppliVacationProject.DataAccess.Models
+﻿namespace AppliVacationProject.DataAccess.Models
 {
-
     public class Users
     {
         public int UsersId { get; set; }
@@ -27,5 +18,10 @@ namespace AppliVacationProject.DataAccess.Models
         public int RoleId { get; set; } /// clé étrangère pour la classe role
         public UserRole Role { get; set; }
         public ICollection <Vacation> Vacations { get; set; }
+        public string City { get; set; }
+        public string Profession { get; set; }
+        public string MaritalStatus { get; set; }
+        public DateTime DateCreateAccount { get; set; }
+        public DateTime DateUpdateAccount { get; set; }
     }
 }

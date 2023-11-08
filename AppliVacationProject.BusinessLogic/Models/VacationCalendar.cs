@@ -4,6 +4,7 @@ namespace AppliVacationProject.DataAccess.Models
     public class VacationCalendar
     {
         public int VacationCalendarId { get; set; }
+        public int VacationId { get; set; }
         public int UsersId { get; set; }
         public string Status { get; set; }
         public string Type { get; set; }

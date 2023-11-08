@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AppliVacationProject.DataAccess.Models
+﻿namespace AppliVacationProject.DataAccess.Models
 {
     public class Vacation
     {
@@ -21,6 +15,7 @@ namespace AppliVacationProject.DataAccess.Models
         public string VacationStatus { get; set; }
         public Users Users { get; set; }
         public int UsersId { get; set; }
+        public DateTime ? ApprobationDate { get; set; }
     }
    
     

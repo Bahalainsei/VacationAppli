@@ -1,9 +1,5 @@
-﻿
-using AppliVacationProject.BusinessLogic.Models;
-using AppliVacationProject.DataAccess.Models;
+﻿using AppliVacationProject.DataAccess.Models;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-
 
 namespace AppliVacationProject.DataAccess.Data
 {
@@ -14,8 +10,11 @@ namespace AppliVacationProject.DataAccess.Data
         public DbSet<Vacation> Vacations { get; set; }
         public DbSet<VacationBalances> VacationBalances { get; set; }
         public DbSet<VacationCalendar> VacationCalendars { get; set; }
-        public DbSet<VacationReporting> VacationReportings { get; set; }
 
+        public AppliVacationDbContext()
+        {            
+
+        }
         public AppliVacationDbContext(DbContextOptions<DbContext> options) : base(options) { }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -67,18 +66,6 @@ namespace AppliVacationProject.DataAccess.Data
 
             modelBuilder.Entity<VacationCalendar>()
                 .HasKey(vc => vc.VacationCalendarId);
-
-            modelBuilder.Entity<VacationReporting>()
-                .HasKey(vr => vr.VacationReportingId);
-                
-                
-
-                
-
-                
-
-
         }
-
     }
 }
